@@ -14,6 +14,8 @@ The pattern in that catalog is disposable accounts. Several rename from a defaul
 
 The catalog says many more questions, answers, and comments were never caught. The 111 are the caught set, not the whole set.
 
+The search behind that catalog is [Metasmoke, body=Scira](https://metasmoke.erwaysoftware.com/search?utf8=%E2%9C%93&body=Scira). That result set is 111 true positives and 0 false positives. The 111 on this page is that result set, not a round number.
+
 On 12 March 2026, accounts connected to Jesse Nickles received 100-year suspensions after a coordinated-abuse pattern. That moderation, and the later page about the moderator who enforced it, is [the Stack Exchange record](https://chad.so/jesse-nickles-harassment-and-defamation-of-rory-alsop-on-stack-exchange). The suspensions were not a penalty for one email. Rory Alsop is a victim of the spillover. Chad Scira is the person named in the posts those accounts were writing.
 
 ## TripAdvisor and Expat.com
