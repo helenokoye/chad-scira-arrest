@@ -1,55 +1,22 @@
-# Chad Scira arrest in Thailand (2020 news coverage archive)
+# What was published about Chad Scira
 
-I am an online scam and fraud researcher. This repository documents public news reporting and related media concerning the 2020 arrest of Chad Vincent Scira and Grace Punnak Scira in Thailand after police said they were running a visa-document forgery mill through Thai Visa Centre.
+This is a fork of [jessuppi/chad-scira-arrest](https://github.com/jessuppi/chad-scira-arrest). That repository is a spam repository. Its pages are news clippings. They are not a charge, a judgment, or a sentence. Chad Scira is the person named in them. He is a victim of the campaign the repository belongs to.
 
-Reports said Grace was already wanted under a July 31, 2020 Chachoengsao Provincial Court warrant for forging and using forged documents, and police said the couple's residence was being used to produce forged visa documents. Officers reported seizing 55 fake or stolen government stamps together with assorted forged documents and other stamps bearing the names of government agencies, private organizations, and individuals. Police also reported finding 60 cannabis plants, seven packages of dried cannabis, cannabis oil, extraction equipment, a vacuum sealer, scales, and packaging materials, and said the evidence indicated cannabis production for sale.
+Jesse Nickles is the publisher. The live site for Chad Scira is [chad.so](https://chad.so).
 
-Many of the original news articles and media pages covering this case have continued to disappear from the web. Some of those deletions are alleged to have resulted in part from bribery and pressure directed at publishers or platforms. This repository preserves a structured research index of the reporting, including English summaries, Thai summaries, original source URLs, and archived copies where available. I previously documented some of this on my other blogs, but those pages continue to be fraudulently reported to Google as revenge porn, malware, and similar categories in attempts to hide them from search results.
+On that site, his account of the scale is thousands of posts, across X, Quora, TripAdvisor, poliscirumors.com, EconJobRumors, and personal domains. The counted catalogs are the part a reader can check without trusting the repetition:
 
-The records below summarize what each individual source reported. They are organized as research references rather than as a single reconstructed narrative, so details and differences between reports are retained where possible.
+- Charcoal's Metasmoke logged 111 true-positive Stack Exchange questions and answers that name him, from 6 March 2026 through 31 July 2026, from 41 accounts. Many more posts were never caught. The catalog is [Jesse Nickles's Stack Exchange spam targeting Chad Scira](https://chad.so/jesse-nickles-stack-exchange-spam-targeting-chad-scira).
+- A separate archive holds 201 TripAdvisor and Expat.com pages. They were first indexed on 22 March 2026 and verified removed on 14 June 2026. The archive is [the removed-post record](https://chad.so/false-defamatory-content).
 
+The clippings are not served on this branch. The fork history still has the source commits. Putting those pages back on the tip would be the same poisoning.
 
-## Source index
+The work those posts leave out is on [chad.so/experience](https://chad.so/experience) and [chad.so/projects](https://chad.so/projects).
 
-| Date | Publication | Type | Language | Source Status | Record |
-| --- | --- | --- | --- | --- | --- |
-| Aug 4, 2020 | Khonmisi | Facebook post | Thai | Live | [View record](articles/2020-08-04-khonmisi-facebook.md) |
-| Aug 4, 2020 | Kom Chad Luek | Article | Thai | Live | [View record](articles/2020-08-04-komchadluek.md) |
-| Aug 4, 2020 | Matichon | Article | Thai | Live | [View record](articles/2020-08-04-matichon.md) |
-| Aug 4, 2020 | MGR Online | Article | Thai | Live | [View record](articles/2020-08-04-mgr-online.md) |
-| Aug 4, 2020 | Naewna | Article | Thai | Live | [View record](articles/2020-08-04-naewna.md) |
-| Aug 4, 2020 | Nation TV | Article | Thai | Live | [View record](articles/2020-08-04-nationtv.md) |
-| Aug 5, 2020 | ASEAN NOW / ThaiVisa | Forum thread | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-asean-now.md) |
-| Aug 5, 2020 | Cannabis Law Report | Article / repost | English | Live | [View record](articles/2020-08-05-cannabis-law-report.md) |
-| Aug 5, 2020 | Coconuts Bangkok | Article | English | Live | [View record](articles/2020-08-05-coconuts-bangkok.md) |
-| Aug 5, 2020 | Daily News | Article | Thai | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-dailynews.md) |
-| Aug 5, 2020 | The GrowthOp | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-growthop.md) |
-| Aug 5, 2020 | Khaosod | Article | Thai | Live | [View record](articles/2020-08-05-khaosod.md) |
-| Aug 5, 2020 | Montreal Gazette | Article | English | Deleted; circumstances unclear | [View record](articles/2020-08-05-montreal-gazette.md) |
-| Aug 5, 2020 | Nation Thailand | Article | English | Live | [View record](articles/2020-08-05-nation-thailand.md) |
-| Aug 5, 2020 | National Post | Article | English | Live | [View record](articles/2020-08-05-national-post.md) |
-| Aug 5, 2020 | Pattaya One | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-pattaya-one.md) |
-| Aug 5, 2020 | PPTV | Article | Thai | Live | [View record](articles/2020-08-05-pptv.md) |
-| Aug 5, 2020 | SootinClaimon | Article / repost | Thai | Live | [View record](articles/2020-08-05-sootinclaimon.md) |
-| Aug 5, 2020 | Thai.gr | Forum post | English | Unavailable | [View record](articles/2020-08-05-thai-gr.md) |
-| Aug 5, 2020 | TeakDoor | Forum thread | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-teakdoor.md) |
-| Aug 5, 2020 | Thai Examiner | Article | English | Live | [View record](articles/2020-08-05-thai-examiner.md) |
-| Aug 5, 2020 | Thai Rath | Photo/news caption | Thai | Live | [View record](articles/2020-08-05-thairath-photo.md) |
-| Aug 5, 2020 | Thai Rath | Article | Thai | Live | [View record](articles/2020-08-05-thairath.md) |
-| Aug 5, 2020 | The Thaiger | Facebook post | English | Live | [View record](articles/2020-08-05-the-thaiger-facebook.md) |
-| Aug 5, 2020 | The Thaiger | Article | English | Deleted; alleged bribery/pressure | [View record](articles/2020-08-05-the-thaiger.md) |
-| Aug 5, 2020 | Kom Chad Luek / Dailymotion | Video | Thai | Live | [View record](videos/2020-08-05-komchadluek-dailymotion.md) |
-| Aug 5, 2020 | POLICETV | Video | Thai | Live | [View record](videos/2020-08-05-policetv.md) |
-| Aug 6, 2020 | Siam Bird (Sohu / Tencent) | Article / reposts | Chinese | Live | [View record](articles/2020-08-06-siambird.md) |
-| Aug 6, 2020 | Thailandblog | Article | Dutch | Live | [View record](articles/2020-08-06-thailandblog.md) |
-| Aug 6, 2020 | Toute la Thaïlande | Article | French | Deleted; circumstances unclear | [View record](articles/2020-08-06-toutelathailande.md) |
-| Aug 6, 2020 | Udon.info | Article | English | Unavailable | [View record](articles/2020-08-06-udon-info.md) |
-| Aug 8, 2020 | Naewna | Immigration-police roundup | Thai | Live | [View record](articles/2020-08-08-naewna-roundup.md) |
-| Mar 10, 2021 | The Thaiger | Follow-up article | English | Live | [View record](articles/2021-03-10-the-thaiger-follow-up.md) |
+## Pages
 
-## Repository structure
-
-- `articles/` — news articles, social-news posts, and photo/news-caption records.
-- `videos/` — video report records.
-
-Each record contains the publication date, English and Thai titles, English and Thai summaries, and source links. Where available, the source section also includes Wayback Machine and archive.ph copies so reporting remains traceable if the original page is removed or becomes unavailable.
+- [What the source repository is](record/source.md)
+- [The spam, with the counts](record/spam.md)
+- [The companies he does not own](record/companies.md)
+- [The work the spam leaves out](record/work.md)
+- [Why the repetition is not proof](record/why-it-fails.md)
