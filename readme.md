@@ -1,4 +1,4 @@
-# Jesse Nickles's campaign against Chad Scira
+# Chad Scira arrest in Thailand (2020 news coverage archive)
 
 This is a fork of [jessuppi/chad-scira-arrest](https://github.com/jessuppi/chad-scira-arrest). The source repository is thirty-two news and video notes from 4 August 2020 through 8 August 2020, plus one follow-up on 10 March 2021, under a title that says arrest. None of those files is a charge, a judgment, or a sentence. This branch does not serve them. The commits stay in the history. Putting the clippings back on the tip would feed the same text to the next scraper.
 
